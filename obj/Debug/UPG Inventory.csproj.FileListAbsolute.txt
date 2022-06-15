@@ -1,0 +1,15 @@
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\bin\Debug\UPG Inventory.exe.config
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\bin\Debug\UPG Inventory.exe
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\bin\Debug\UPG Inventory.pdb
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\obj\Debug\MainWindow.g.cs
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\obj\Debug\App.g.cs
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\obj\Debug\UPG Inventory_MarkupCompile.cache
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\obj\Debug\UPG Inventory_MarkupCompile.lref
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\obj\Debug\MainWindow.baml
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\obj\Debug\UPG Inventory.g.resources
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\obj\Debug\UPG_Inventory.Properties.Resources.resources
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\obj\Debug\UPG Inventory.csproj.GenerateResource.cache
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\obj\Debug\UPG Inventory.csproj.CoreCompileInputs.cache
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\obj\Debug\UPG Inventory.exe
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\obj\Debug\UPG Inventory.pdb
+C:\Users\pozhi\Desktop\UPG Inventory\UPG Inventory\obj\Debug\UPG Inventory.csproj.AssemblyReference.cache
